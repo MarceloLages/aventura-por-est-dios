@@ -13,6 +13,11 @@ button {
     background-color: #64A712;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
 
 .passo {
@@ -30,4 +35,6 @@ main {
 
 img {
     max-width: 90%;
+    border-radius: 10px;
+    margin-bottom: 20px;
 }
